@@ -1,2 +1,2 @@
 # 19-Simple7Segment-lwin
-Das ist der Jona Kemp der gleiche mit jeder pennt und dann am nächsten Tag den Namen nicht mehr kennt
+Dieses Projekt zeigt, wie man ein 7-Segment-Display steuert, um Ziffern oder Zeichen darzustellen. Ein 7-Segment-Display besteht aus sieben LEDs, die in einer bestimmten Konfiguration an- oder ausgeschaltet werden, um Ziffern von 0 bis 9 und teilweise auch Buchstaben darzustellen.
